@@ -10,14 +10,14 @@ export default function Home() {
         </div>
 
         <h1 className="flora-home-title text-4xl font-semibold tracking-tight text-white sm:text-5xl md:text-6xl">
-          Share ideas.
+          Put Down Your Mugs.
           <br />
-          Build together.
+          And Start Socializing.
         </h1>
 
         <p className="flora-home-description mx-auto mt-6 max-w-2xl text-base leading-7 text-[var(--muted)] sm:text-lg">
           MUG Coders is a community where developers can share technical
-          content, discuss ideas, discover communities, and connect through
+          content, discuss ideas, discover communities, nag, talk about how stupid clients are and connect through
           code.
         </p>
 
