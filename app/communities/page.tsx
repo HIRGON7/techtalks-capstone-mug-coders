@@ -1,8 +1,10 @@
-
 import Link from "next/link";
 import { getCommunities } from "@/lib/queries/communities";
 
+export const dynamic = "force-dynamic";
+
 export default async function CommunitiesPage() {
+
   const communities = await getCommunities();
 
   return (
